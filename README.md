@@ -61,3 +61,5 @@ Some suggestions for the HR department to improve employee performance and reten
 
 **Conclusion:**
 This HR analytics dashboard showed important information about employees that can help make better decisions and keep employees happy and working for the organization. By taking actions to address the issues that employees face and creating a positive work environment, the HR department can help employees perform better and stay in their jobs longer. This can help the organization make more money and be more successful.
+
+For any feedback, feel free to contact me at rohitpaul09@gmail.com.
