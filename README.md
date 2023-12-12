@@ -21,6 +21,9 @@ To start the analysis, I have identified the key performance indicators (KPIs) t
 6. Average tenure
 
 **Charts and Insights:**
+
+<img src="https://drive.google.com/uc?id=1ezmZlb8-9MtoEvD3mcvo03rR9khdUQuX" alt="HR Analytics dashboard" width="700" height="400">
+
 I have used several charts and visualizations to gain insights into the employee data. Here are some of the key insights gained from the analysis:
 
 1. Tree map chart: The chart showed the distribution of attrition by gender. The data showed that 140 males and 79 females had left the company, indicating that male employees were leaving the company more than female employees.
