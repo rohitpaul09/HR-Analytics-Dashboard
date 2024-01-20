@@ -4,6 +4,8 @@
 **Objective:**
 The purpose of this project is to help an organization to improve employee performance and reduce attrition by creating an HR analytics dashboard. The dashboard provides valuable insights into employee data, which can be used to make data-driven decisions and improve employee satisfaction and retention.
 
+<img src="https://drive.google.com/uc?id=1ezmZlb8-9MtoEvD3mcvo03rR9khdUQuX" alt="HR Analytics dashboard" width="700" height="400">
+
 **Data Source:**
 The raw data for this project was obtained in the form of a CSV file with 38 columns and approximately 1.5k rows. The data contained information about employee demographics, job roles, salaries, and tenure, among others.
 
@@ -21,8 +23,6 @@ To start the analysis, I have identified the key performance indicators (KPIs) t
 6. Average tenure
 
 **Charts and Insights:**
-
-<img src="https://drive.google.com/uc?id=1ezmZlb8-9MtoEvD3mcvo03rR9khdUQuX" alt="HR Analytics dashboard" width="700" height="400">
 
 I have used several charts and visualizations to gain insights into the employee data. Here are some of the key insights gained from the analysis:
 
